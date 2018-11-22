@@ -19,7 +19,7 @@
 
 User Function PRGPE18()      
 
-   Processa({|| GenTela()},"Generando Información")
+   Processa({|| GenTela()},"Generando Información falsa")
 
 Return 
 
